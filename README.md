@@ -1,13 +1,5 @@
 # college-management
-<html>
-	<head>
-	<style>
-	p{
-	color:white;
-	text-align:center;
-	}
-	</head>
-	</style>
+
 <body background="campus.jpg">
 <h1><p align="center"> Gayatri Vidya Parishad College of Engineering For Women</p></h1>
 <h2><p align="center"> College Description </p></h2>
